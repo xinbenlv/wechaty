@@ -88,7 +88,7 @@
     "node": ">= 7"
   },
   "dependencies": {
-    "@types/node": "^8.0.33",
+    "@types/node": "8.0.46",
     "@types/ws": "^3.2.0",
     "bl": "^1.2.1",
     "brolog": "^1.2.8",
