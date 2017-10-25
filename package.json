@@ -98,7 +98,7 @@
     "raven": "^2.2.1",
     "request": "^2.83.0",
     "retry-promise": "^1.0.0",
-    "rxjs": "^5.4.3",
+    "rxjs": "^5.5.2",
     "state-switch": "^0.2.2",
     "watchdog": "^0.1.16",
     "ws": "^3.2.0",
