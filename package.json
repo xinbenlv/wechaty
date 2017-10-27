@@ -126,7 +126,7 @@
     "cookie-parser": "^1.4.3",
     "coveralls": "^3.0.0",
     "cross-env": "^5.0.5",
-    "eslint": "^4.8.0",
+    "eslint": "4.9.0",
     "express": "^4.15.2",
     "finis": "^0.0.3",
     "fluent-ffmpeg": "^2.1.2",
